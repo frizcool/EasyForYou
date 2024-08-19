@@ -1,21 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="E-OFFICE" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="20" y="70" width="520" height="450" as="geometry" />
+          <mxGeometry x="20" y="70" width="700" height="490" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="SURAT MASUK" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry y="40" width="520" height="410" as="geometry" />
+          <mxGeometry y="40" width="700" height="450" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="TATA USAHA" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
-          <mxGeometry x="40" width="150" height="410" as="geometry">
-            <mxRectangle width="150" height="410" as="alternateBounds" />
+          <mxGeometry x="40" width="150" height="450" as="geometry">
+            <mxRectangle width="150" height="450" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="START" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-4" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="MULAI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-4" vertex="1">
           <mxGeometry x="20" y="50" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYpfPBhZfu6Fcm4IwKXz-19" value="MASUKAN DATA SURAT MASUK&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
@@ -30,9 +30,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-33" value="ARSIP SURAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
+          <mxGeometry x="25" y="309" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-36" value="SELESAI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
+          <mxGeometry x="20" y="380" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.478;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-4" source="eYpfPBhZfu6Fcm4IwKXz-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="72.35999999999999" y="351" as="sourcePoint" />
+            <mxPoint x="72.35999999999999" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="73" y="360" />
+              <mxPoint x="72" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="ESELON PIMPINAN" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
-          <mxGeometry x="190" width="150" height="410" as="geometry">
-            <mxRectangle width="150" height="410" as="alternateBounds" />
+          <mxGeometry x="190" width="150" height="450" as="geometry">
+            <mxRectangle width="150" height="450" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="DISPOSISI LEVEL 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
@@ -48,12 +64,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="ESELON PEMBANTU &#xa;PIMPINAN" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
-          <mxGeometry x="340" width="180" height="410" as="geometry">
-            <mxRectangle width="180" height="410" as="alternateBounds" />
+          <mxGeometry x="340" width="180" height="450" as="geometry">
+            <mxRectangle width="180" height="450" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eYpfPBhZfu6Fcm4IwKXz-27" value="DISPOSISI LEVEL 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-11">
           <mxGeometry x="45" y="218" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-32" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-11" target="eYpfPBhZfu6Fcm4IwKXz-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="258" as="sourcePoint" />
+            <mxPoint x="215" y="276" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-29" value="ESELON PELAKSANA" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-3">
+          <mxGeometry x="520" width="180" height="450" as="geometry">
+            <mxRectangle width="180" height="450" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-30" value="MELAKS&amp;nbsp;&lt;div&gt;PERINTAH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eYpfPBhZfu6Fcm4IwKXz-29">
+          <mxGeometry x="50" y="256" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYpfPBhZfu6Fcm4IwKXz-24" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-3" source="eYpfPBhZfu6Fcm4IwKXz-19" target="3nuBFxr9cyL0pnOWT2aG-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -62,6 +95,15 @@
             <Array as="points">
               <mxPoint x="110" y="180" />
               <mxPoint x="110" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-35" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-3" source="eYpfPBhZfu6Fcm4IwKXz-30" target="eYpfPBhZfu6Fcm4IwKXz-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="210" y="328" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="328" />
             </Array>
           </mxGeometry>
         </mxCell>
