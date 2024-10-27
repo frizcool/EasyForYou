@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="DISPOSISI LEVEL 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
           <mxGeometry x="30" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-38" value="CETAK DISPOSISI LEVEL 1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-38" value="CETAK DISPOSISI&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
           <mxGeometry x="15" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYpfPBhZfu6Fcm4IwKXz-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-8" source="3nuBFxr9cyL0pnOWT2aG-9" target="eYpfPBhZfu6Fcm4IwKXz-38" edge="1">
@@ -67,7 +67,7 @@
         <mxCell id="eYpfPBhZfu6Fcm4IwKXz-27" value="DISPOSISI LEVEL 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
           <mxGeometry x="45" y="218" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-42" value="CETAK DISPOSISI LEVEL 2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
+        <mxCell id="eYpfPBhZfu6Fcm4IwKXz-42" value="CETAK DISPOSISI&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
           <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYpfPBhZfu6Fcm4IwKXz-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-11" edge="1">
@@ -141,6 +141,72 @@
               <mxPoint x="530" y="238" />
               <mxPoint x="530" y="276" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-1" value="&lt;b&gt;TATA USAHA (SET)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-2" value="&lt;b&gt;ESELON PIMPINAN&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. PANGDAM&lt;/div&gt;&lt;div&gt;2. KASDAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-3" value="&lt;b&gt;ESELON PEMBANTU PIMPINAN&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. PARA ASISTEN&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. (YG DAPAT MENGELUARKAN SURAT AN. PANGDAM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-4" value="&lt;b&gt;ESELON PELAKSANA&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. BALAK&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. BATALYON&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. DST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-6" value="LEVEL USER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-7" value="TATA USAHA SATUAN" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-6">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-8" value="ESELON PIMPINAN SATUAN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-6">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-9" value="ESELON PEMBANTU PIMPINAN SATUAN" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-6">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="56gJVW8EYQh7qOzdIpQb-6" target="56gJVW8EYQh7qOzdIpQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-11" value="LEVEL USER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-12" value="TATA USAHA SATUAN" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-11">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-13" value="ESELON PIMPINAN SATUAN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-11">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-14" value="ESELON PEMBANTU PIMPINAN SATUAN" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-11">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="56gJVW8EYQh7qOzdIpQb-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="520" as="sourcePoint" />
+            <mxPoint x="490" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-16" value="LEVEL USER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-17" value="TATA USAHA SATUAN" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-16">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-18" value="ESELON PIMPINAN SATUAN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-16">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-19" value="ESELON PEMBANTU PIMPINAN SATUAN" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="56gJVW8EYQh7qOzdIpQb-16">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56gJVW8EYQh7qOzdIpQb-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="56gJVW8EYQh7qOzdIpQb-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="490" as="sourcePoint" />
+            <mxPoint x="640" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
